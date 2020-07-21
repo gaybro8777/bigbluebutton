@@ -11,7 +11,7 @@
     "async": "2.6.1",
     "body-parser": "^1.9.2",
     "express": "4.16.4",
-    "lodash": "4.17.11",
+    "lodash": "4.17.19",
     "nock": "^10.0.4",
     "redis": "^2.8.0",
     "request": "2.88.0",
